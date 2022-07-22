@@ -1,0 +1,14 @@
+.expenses-list {
+  list-style: none;
+  padding: 0;
+}
+
+.expenses-list__fallback {
+  color: white;
+  text-align: center;
+}
+
+.filtered-year {
+  font-size: 1.4rem;
+  text-decoration: underline;
+}
